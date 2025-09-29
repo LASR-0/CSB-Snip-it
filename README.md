@@ -216,5 +216,5 @@ This project has been one of my biggest learning experiences so far. Along the w
 - **Vite:** Faster hot reloads and bundling  
 - **UI/UX Iteration:** From barebones to polished, user-oriented design  
 
-Overall, this project helped me bridge frontend and backend concepts, and gave me hands-on experience in building and releasing a full desktop application from scratch.  
+Overall, this project helped me understand react alittle more deeply, aswell as showing me the ropes of electron, i covered topics i haven't touched on before, such as importing database files and updating the runtime state, aswell as themeing. i hope to learn even more in the upkeep of the app, im excited to do runtime testing and too see how the application runs with large amounts of data. i look forward to the journey of optimisation ahead of me and  the possability of re-doing this project in vau in the future.
 
