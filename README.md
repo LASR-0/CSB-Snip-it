@@ -18,11 +18,11 @@ Users may encounter unexpected behavior during this phase. Feedback and issue re
 
 This is a **release-only repository**, containing:  
 - A documentation README (covering stack, architecture, design, and development logs)  
-- The packaged application installer (available in the [Releases](./releases) section)  
+- The packaged application installer (available in the [Releases](https://github.com/LASR-0/CSB-Snip-it/releases) section)  
 
 A desktop application built with Electron and React that helps manage and organize code snippets efficiently.  
 
-[📥 Download Latest Release](./releases)  
+[📥 Download Latest Release](https://github.com/LASR-0/CSB-Snip-it/releases)  
 
 ---
 
